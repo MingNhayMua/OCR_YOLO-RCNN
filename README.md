@@ -76,15 +76,7 @@ Hệ thống sẽ phát hiện văn bản trong ảnh và hiển thị nội dun
 
 ---
 
-## Kết quả
-Dưới đây là một số kết quả nhận diện:
-
-| Ảnh gốc | Kết quả phát hiện | Kết quả nhận diện |
-|---------|------------------|------------------|
-| ![input](docs/input.jpg) | ![detect](docs/detect.jpg) | ![recognize](docs/recognize.jpg) |
-
----
-
 ## Tác giả
-Dự án được thực hiện bởi nhóm **AI VIET NAM - 2024**.
+Dự án lấy ý tưởng từ nhóm **AI VIET NAM - 2024**.
 Mọi thắc mắc hoặc góp ý, vui lòng liên hệ qua email: **support@aivietnam.edu.vn**.
+Rất cảm ơn nhóm AIO.
